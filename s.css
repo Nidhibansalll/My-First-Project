@@ -1,0 +1,186 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+   
+}
+body{
+    
+    align-items: center;
+    font-size: 30px;
+    display:inline;
+    
+}
+.container{
+    background-color: azure;
+    align-items: center;
+    font-size: 50px;
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    padding: 0px;
+    padding-left: 50px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 0px;
+    background-color:  #000000;
+}
+nav{
+    flex: 1;
+    text-align: right;
+    padding-bottom: 0px;
+}
+nav li{
+    display: inline-block;
+    padding: 0% 20px;
+    list-style: none;
+    font-size: 40px;
+    margin-right: 20px;
+    margin-left: 80px;
+  
+}
+a{
+    font-size: 22px;
+    color: white;
+    cursor: pointer;
+    text-decoration: none;
+}
+nav li a:hover{
+    color: white;
+    transition: all 1s ease 0s;
+    border-bottom: 3px solid white;
+}
+ nav ul button{
+    height: 50px;
+    width: 110px;
+    font-family: 'Times New Roman', Times, serif;
+    border: none;
+    background:#dc2727;
+    border-radius: 50px;
+    padding: 5px 20px;
+  
+    outline: none;
+    cursor: pointer;
+    font-size: 20px;
+    margin-left: 40px;
+}
+nav ul button:hover{
+    color: white;
+    transition: all 0.5s ease 0s;
+    border-bottom: 3px solid white;
+}
+section.login{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background: url(login.jpg);
+    filter: blur(2px) brightness(30%);
+}
+#login-form{
+    display: none;
+}
+footer{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #023e8a;
+    background-color: #000000;
+    text-align: center;
+    font-weight: bold;
+    padding-top: 20px;
+}
+
+form{
+    
+    text-align: center;
+    font-weight: bold;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+form label{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #023e8a;
+    text-align: center;
+    font-weight: bold;
+    
+
+    
+}
+form select{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #06254d;
+    text-align: center;
+    font-weight: bold;;
+    border-radius: 20 px;
+   
+}
+form button
+{
+height: 50px;
+    width: 150px;
+    font-family: 'Times New Roman', Times, serif;
+    border: none;
+    color: #000000;
+    background:#dc2727;
+    border-radius: 50px;
+    padding: 5px 20px;
+    align-items: center;
+    outline: none;
+    cursor: pointer;
+    font-size: 15px;
+    margin-left: 20px;
+    font-weight: bold;
+}
+form button:hover{
+    color: white;
+    transition: all 0.5s ease 0s;
+    border-bottom: 3px solid white;
+}
+.end{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #023e8a;
+    background-color: azure;
+    text-align: center;
+    font-weight: bold;
+    padding-bottom: 30px;
+   
+}
+.footer{
+    display: flex;
+    align-items: center;
+    padding: 0px;
+    padding-left: 50px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 0px;
+    background-color:  #000000;
+}
+nav{
+    flex: 1;
+    text-align: center;
+    padding-bottom: 0px;
+}
+nav li{
+    display: inline-block;
+    padding: 0% 20px;
+    list-style: none;
+    font-size: 40px;
+    margin-right: 20px;
+    margin-left: 20px;
+     font-weight: lighter;
+     padding-top: 0px;
+     padding-bottom: 5px;
+}
+.result{
+
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #023e8a;
+    text-align: center;
+    font-weight: lighter;
+    padding-top: 20px;
+}

@@ -1,0 +1,90 @@
+{
+    "Physics": {
+        "def":"It is the study of fundamental principles governing the universe,including matter,energy,space and time.",
+       "avgCourseCost": 800000,
+        "fresherSalary": 500000,
+        "futureScope": "Growing demand in renewable energy and automation.",
+        "entranceExam": "JEE, GATE,CUET",
+        "topColleges": ["IIT Kanpur", "MIT", "IISc"]
+    },
+    "Chemistry": {
+        "def":"It is the scientific study of substances, their properties,reactions and how they interact with energy.",
+        "avgCourseCost": 600000,
+        "fresherSalary": 700000,
+        "futureScope": "Crucial for pharmaceuticals,chemical engineering, and environmental science.",
+        
+        "entranceExam": "JEE, GATE,CUET",
+        "topColleges": ["NITs", "IITs", "IISc"]
+    },
+    "Maths": {
+        "def":"The study of numbers,shapes,structures,patterns and relationships.",
+        "avgCourseCost": 120000,
+        "fresherSalary": 800000,
+        "futureScope": "Fundamental in data science,finance,cryptography, and academia.",
+        "entranceExam": "JEE, GATE",
+        "topColleges": ["NIT Trichy", "IIT Roorkee", "IISc"]
+    },
+    "Biology": {
+        "def":"Scientific study of life and living organisms,including their structure,function,growth,evolution, and interactions with environment.",
+        "avgCourseCost": 1000000,
+        "fresherSalary": 800000,
+        "futureScope": "Vital for careers in healthcare,biotechnology,and environmental conservation.",
+        
+        "entranceExam": "NEET,CUET",
+        "topColleges": ["AIMS Delhi", "IISERs", "IITs"]
+    },
+    "Accounts": {
+        "def":"It typically focus on financial management,bookkeeping and auditing.",
+        "avgCourseCost": 100000,
+        "fresherSalary": 600000,
+        "futureScope": "Keys for careers in auditing,finance, and corporate management.",
+        
+        "entranceExam": "CUET,Entrance Exams of specific universities",
+        "topColleges": ["DU", "SRM", "BHU"]
+    }, 
+    "Economics": { 
+        "def":"Economists analyze data,research economic issues,and forecast economic trends for governments,businesses and individuals.",
+        "avgCourseCost": 200000,
+        "fresherSalary": 600000,
+        "futureScope": "Leads to roles in finance,public policy,business,and academia.",
+        
+        "entranceExam": "CUET,Entrance Exams of specific universities.",
+        "topColleges": ["DU", "SRM", "BHU"]
+    },
+    "Business Studies": {
+        "def":"Business Studies is a subject that focuses on the principles,practices,and processes of business operations.",
+        "avgCourseCost": "3-6 LPA",
+        "fresherSalary": " 4 -7 LPA",
+        "futureScope": "Prepares for enterprenuership,management, and corporate stratergy.",
+        "entranceExam": "CUET,Entrance Exams of specific universities.",
+        "topColleges": ["DU", "SRM", "BHU"]
+    },
+    "English": {
+        "def":"It hones skills in writing,communication,critical thinking amd literary analysis.",
+        "avgCourseCost": 100000,
+        "fresherSalary": 500000,
+        "futureScope": "Essential for careers in communication,literature,education and media.",
+        
+        "entranceExam": "CUET",
+        "topColleges": ["DU", "JU"]
+
+},
+"Psychology": {
+    "def":"Psychology is the scientific study of the mind and behaviour.",
+        "avgCourseCost": "500000 to 300000",
+        "fresherSalary":"600000",
+        "futureScope": "Leads to roles in mental health, human resources, and behavioral research.",
+        "entranceExam": "CUET",
+        "topColleges": ["University of Delhi", "BHU", "Jamia Millia Islamia"]
+
+},
+"History": {
+    "def":"History is the study of past events,socities, and civilizations,focusing on how cultures,politics, and economics evolved over time.",
+        "avgCourseCost": "3-6 LPA",
+        "fresherSalary": 600000,
+        "futureScope": "Pathway to careers in healthcare,biotechnology, and environmental science. ",
+        "entranceExam": "CUET",
+        "topColleges": ["Presidency University", "DU", "JNU"]
+
+}
+}
